@@ -19,5 +19,5 @@ menu.color = 'blue';
 
 //adicionando propiedade
 menu.esconder = function() {
-    console.log('escondi')
+    // console.log('escondi')
 }
